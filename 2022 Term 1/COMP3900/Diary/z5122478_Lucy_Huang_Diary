@@ -1,0 +1,40 @@
+Week 1
+
+- Formed groups and discussed overall ideas on which project we should work on
+
+Week 2 
+
+- Finalised the project chosen
+- Discussed project proposal and novel functions
+- Started drafting user stories
+
+Week 3 
+
+- Researched AliExpress and Amazon for project proposal
+- Formatted proposal document to comply with standards and filled in missing components
+
+Week 4 
+
+- Learnt Javascript, React, HTML and a little CSS
+- Set up machine
+
+Week 5
+
+- Worked on changing password frontend
+- Reworked changing password frontend to be resetting password frontend (for when a user forgets their password)
+- Debugged jsonify not working due to quotation mark shenanigans
+
+Week 6
+
+- Break
+
+Week 7
+
+- Added recommendations to front page and to each product page
+
+Week 8
+
+Week 9
+
+- Struggled to merge recommendations branch into main
+- Fixed resetting password to conform with new security features implented in backend

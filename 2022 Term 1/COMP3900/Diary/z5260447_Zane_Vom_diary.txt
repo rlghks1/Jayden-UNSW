@@ -1,0 +1,10 @@
+01/03/22 - Made some minor adjustments to proposal, consulted scrum master role and responsibilities
+03/03/22 - Looked up existing systems and listed down pros and cons of each
+09/03/22 - Got some help from a fellow team member to set up the environment and all requirements on project site
+14/03/22 - Got some help from another fellow team member to actually set up the environment and all requirements on frontend, inserted logo on to page
+19/03/22 - Added the home button functionality to logo, and marked user story as done
+03/04/22 - Assigned myself the issues regarding the search box and categories, made a start to search box functionality
+04/04/22 - Corrected issue assignment and created new branch
+06/04/22 - Got help from group member with bug fixing
+13/04/22 - Isolated tags to four categories and implemented category functionality, created project report and made some progress on it
+21/04/22 - Added a line to auth.py and submitted project report

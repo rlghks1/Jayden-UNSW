@@ -1,0 +1,79 @@
+z5302513 / Kihwan Baek (Jayden)
+COMP3900 Diary
+
+-------
+Week 1
+-------
+
+- Joined a new group discussed on the theme of project that we need to choose
+- set up Jira and Github for our project 
+-------
+Week 2
+-------
+
+- Got Marvin as a 5th member and chose 'recommendation system' as our project
+- Started working on designing our backend and system infrastructure
+
+<Meeting> - 25/02 (about 40mins)
+
+- We had a short Discord meeting to discuss where we were up to and what needed to be done.
+- Decided 'NFT' as our product  
+- Tanked the ideas of novel features and got 3 best features (sales analytics, theme, reservation system) 
+- Allocated JIRA tasks according to our roles.
+
+
+-------
+Week 3
+-------
+
+ - set up the system architecture of our system  
+ - investigated our competitors (ex) Amazon, Crypto.com etc)
+ - kept working on Jira and progression check (+ Sprint 1)
+ - Scrum Master submitted our proposal
+ 
+<Meeting> - 
+
+04/03 (about 20mins) 
+- Short discord meeting on progress of proposal
+
+7/03 (about 30mins) 
+- Finalised the proposal (Backlog, Jira, System Architecture and Flow diagram Done)
+- Subdivided what to do on sprints
+
+-------
+Week 4
+-------
+- Successfully used Google Vision API to label our NFT's which will assist in our recommender system.
+- Uploaded the dataset of NFTs including name, label etc.. on Github
+
+-------
+Week 5
+-------
+- I implemented the frame of Top NFTs / Recommendation / extra space for additional function
+- Learning how to get product component from backend API.
+-------
+Week 6
+-------
+- I completed the Top NFTs in order on homepage 
+- I completed product description page for the top NFTs
+- Implementing cart function for user 
+-------
+Week 7
+-------
+- Finished search bar functionality for frontend
+- added sort algorithm on search results
+
+-------
+Week 8
+-------
+- Completed reservation functionality for frontend
+-------
+Week 9
+-------
+- Completed making purchases + order history on frontend
+- fixed some errors on reservation 
+-------
+Week 10
+-------
+- added docstrings for some part which we need to explain specifically 
+- fixed some dependency and console errors

@@ -1,0 +1,11 @@
+W1: Familiarised with group background
+W2: Discussed project proposal with group, created some user stories
+W3: Worked on project proposal, mainly on user stories, intro and sprints.
+-- All features worked on are frontend features or integrating frontend w/ backend ---
+W4: Implemented frontend: topnav, botnav, searchbar, popup, button components.
+W5: Routing
+W6: Login stuff, admin pages, user icons/dropdown menu
+W7: User registration, admin catalogue, cart, page navigation, product details redesign
+W8: Login integration bug and multiple cart items bug fixed. Localstorage for user data implemented.
+W9: Cart delete items, liking and favourites page, order history page, admin sales page, dark mode, made new logo!!!, styling consistency enforced, like a trillion bug fixes on backend integration and memory leak issues.   
+W10: admin delete product big fixed, black mode, reformatted home page, implemented recommendations into home page and logout rerendering.

@@ -1,0 +1,81 @@
+COMP3900 Diary
+
+-------
+Week 1
+-------
+
+- Group disbanded due to people dropping from the course
+
+-------
+Week 2
+-------
+
+- Joined a new group and decided on the project that we would do.
+- Started working on designing our backend and system infrastructure
+
+Meetings:
+
+25/02
+- We had a short Discord meeting to discuss where we were up to and what needed to be done.
+- Consolidated our product ideas and decided to choose NFT's as our product.
+- Similarly with our novel ideas, we ranked them and chose the top 2/3 to implement/
+- Allocated JIRA tasks according to our roles.
+
+
+-------
+Week 3
+-------
+- Completed the system infrastructure designs for the proposal.
+- Setup MongoDB according the to infrastructure designs.
+- Generated our dataset of products including images, product attributes such as cost, etc...
+- Working on setting tags on products using online AI services to use for our recommendation system
+
+Meetings:
+
+4/03
+- Discord meeting for a short progress check.
+
+7/03
+- Discord meeting to finalise the proposal and any outstanding tasks.
+
+
+-------
+Week 4
+-------
+- I successfully used Google Vision API to label all our NFT's which will assist in our recommender system.
+- I finished majority of the Product API backend.
+- I completed the User API backend for registering and logging in
+- I completed user session management after logging in through local storage tokenization.
+
+-------
+Week 5
+-------
+- I added in the backend functionality for liking/disliking a product
+- Backend for User requesting and resetting a password complete. Includes email verificaton for the password reset
+- Added in OrderHistory attribute to users and OrderHistory DB collection.
+- Backend functionality for updating/creating/deleting a product completed.
+
+-------
+Week 6
+-------
+- StuBreak
+-------
+Week 7
+-------
+- Backend functionality for making purchases+order history complete
+-------
+Week 8
+-------
+- Backend functionality for making reservations complete
+-------
+Week 9
+-------
+- Major bugfixes across parts of the backend.
+- Tested setting up and running the project on Lubuntu detailed on the project README
+
+-------
+Week 10
+-------
+- Minor bugfixes
+- Developed user-based recommendation algorithm
+- Project demo rehersals and project report 
