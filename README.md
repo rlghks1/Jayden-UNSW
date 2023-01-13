@@ -1,5 +1,5 @@
 ## Projects from UNSW
-Uploaded all CS porjects I did in UNSW from 2020 to 2022
+Uploaded all CS porjects I did in UNSW
 -------------------------------------------------------------------------
 ### 2020 T1
 COMP1511 - Programming Fundamentals  
