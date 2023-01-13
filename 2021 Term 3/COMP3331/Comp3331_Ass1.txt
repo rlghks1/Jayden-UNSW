@@ -1,0 +1,44 @@
+<Stage>
+1. Allow a single user to login with the server
+2. Add the blocking functionality for 3 unsuccessful attempts
+3. Proceed to the timeout functionality (timeout 이후에 자동 로그아웃 기능)
+
+4. Extend 1,2,3 to handle multiple clients
+
+5. 4까지 마친 후, Implement the functions for presence notification, whoelse and whoelsesince
+
+6. Implement messaging (via the srever) between users
+  => Start with braodcast, then move to online messaging and finally offline messaging
+
+7. Add the balcklist functionality 
+
+<server>
+* 로그인 중복 체크 - should keep tracking for all active users (o)
+* broadcasts (o)
+* list of online users 
+* online history
+* message forwarding
+* offline messaging
+* message broadcast
+* blacklisting
+
+function[a] = b
+a : blocked된 사람
+b : 
+
+is_blocked(블락 된 유저) => 블락 된 유저가 이미 블락되었었는지 확인
+
+=> blocked user는 
+ 1) block한 user에게 메세지 전송 x,
+ 2) block한 user의 login, logout 볼 수 x,
+ 3) block한 user의 online status 볼 수 없음 (userlogs 볼 수 없음)
+<client>
+* authentication
+* message
+* notifications
+* find users online
+* find online history
+* blacklist
+
+* 로그기록 - 항상 한 아이디의 기록이 최신화되는건지 알아보기 
+* invalid password 해결
