@@ -1,0 +1,27 @@
+<Enemies>
+1. Slime 
+- Base HP : 30
+- difficulty enemy strength : 0.1
+-attack speed : ? 
+2. Zombie
+- Base HP : 50
+- difficulty enemy strength : 0.3
+-attack speed : ?
+3. Vampire
+- Base HP : 100
+- difficulty enemy strength : 0.7
+-attack speed : ?
+
+<Weapons>
+1. Sword
+- damage : 6
+2. Stake
+- damage : 4(8 against dracula)
+3. Staff
+- damage : 3
+- trance : 7% probability
+
+<Armour>
+<Random probabilites>
+<toggle key>
+<battle/support radius>

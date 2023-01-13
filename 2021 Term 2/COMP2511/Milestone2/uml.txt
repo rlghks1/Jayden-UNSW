@@ -1,0 +1,5 @@
+<Question>
+1. doubleDamage, trance 등의 effect는 각 attackEquipment, defenseEqupment에 들어있어야 하나? 
+2. Gold, Equipment class가 필요한가?
+
+I have several questions on staticEntities

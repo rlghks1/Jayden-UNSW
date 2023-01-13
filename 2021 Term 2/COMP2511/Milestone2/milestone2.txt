@@ -1,0 +1,21 @@
+<discussion point>
+1. How and who implement the structure, 
+so everyone can know what variable to pass in and what to pass out.
+2. And how to write test to test our specified tasks?
+
+<class files>
+1. BasicEnemy
+2. Card
+3. Character
+4. LoopManiaWorld
+5. LoopManiaWorldController
+6. LoopManiaWorldControllerLoader
+7. LoopManiaWorldLoader
+8. MainMenuController
+9. MenuSwitcher
+10. Sword (weapon / item)
+11. VampireCastleBuilding
+12. VampireCastleCard
+
+<수정사항>
+1. healthpotion 사용 -> world에서

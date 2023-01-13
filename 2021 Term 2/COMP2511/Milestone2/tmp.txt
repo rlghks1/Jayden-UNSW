@@ -1,0 +1,18 @@
+Question
+1. where are the enemy radius and support radius range functions?
+-> just int value + battle에서 비교 구현, 프론트엔드에서 원형 구현?
+2. enemy moving randomly?
+3. should we standardlise all initial values, e.g. initial hp etc?
+-> in movingentity => yes
+4. what is susceptible to stake weapon in "Vampires have high damage, are susceptible to the stake weapon, and run away from campfires. "?
+
+5. for applyEffect function, there is a chanceOfTriggering function, I don't want to implement inside the applyEffect function, because this function is for applying effect already, not for checking the prequisitions. I think I will implement chanceOfTriggering function in MovingEntity abstract, but if anyone else need this function, just let me know, I will move it to Entity so everyone can use it.
+
+6. should I implement attack function in moving entity? this function can set new hp, status of enemy etc. So in controller, just need to call if (within range) {enemy.attack(character); character.attack(enemy)} in a for loop.
+-> I think it is a good idea
+
+<To Do>
+1. issue 수정 - 더 구체적으로
+
+<Assumption 수정>
+1. 게임모드 추가 ()
