@@ -1,2 +1,4 @@
-## Projects from Comp2511 in UNSW
-Contents needed to be added
+## Project from Comp2511 in UNSW
+---------------------------------
+### Making a game 'Loop Mania'
+
